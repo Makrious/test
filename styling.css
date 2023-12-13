@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    justify-content: center;
+    
+    background-color:rgb(119, 34, 141) ;
+}
+button{
+    width: 200px;
+    height: 100px;
+    margin: 100px;
+}
